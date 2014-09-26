@@ -555,7 +555,7 @@ body.enable-fixed-header { padding-top: 40px; }
 	.b-profile-details dd { float: left; margin: 5px 0 0 0; width: 55%; }
 
 	/* PROFILE VIDEO */
-	.b-profile-video iframe { display: block; left; }
+	.b-profile-video iframe { display: block; position: absolute; }
 
 	/* PROFILE PORTFOLIO */
 	.b-profile-portfolio { margin: -10px -40px -60px -30px; }
