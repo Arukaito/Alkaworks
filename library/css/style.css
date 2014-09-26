@@ -531,7 +531,7 @@ body.enable-fixed-header { padding-top: 40px; }
 
 	.e-profile-column-minor { padding: 10px 25px 60px 40px; }
 	.e-profile-column-major { padding: 10px 40px 60px 15px; }
-	.e-profile-column-section { margin-top: 30px; margin-left: 3px; }
+	.e-profile-column-section { margin-top: 30px; margin-left: 10px; }
 	.e-profile-column-section .e-section-title { margin: 0 0 20px 0; font-size: 1.5em; }
 	.e-profile-column-section .e-section-title.m-big { font-size: 2.25em; }
 	.e-profile-column-minor .b-radial-progress-bar .e-loader { width: 110px; height: 110px; }
