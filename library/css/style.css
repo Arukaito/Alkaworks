@@ -36,7 +36,7 @@ html { height: 100%; font: 16px/1.5em 'Varela Round', sans-serif; }
 body { position: relative; margin: 0; font: inherit; -webkit-font-smoothing: antialiased; -ms-word-wrap: break-word; word-wrap: break-word;  background: #141414;}
 body.enable-fixed-header { padding-top: 40px; }
 canvas{
-	position:relative;
+	position:absolute;
 	top:0;
 	left:0;
 }
