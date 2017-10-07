@@ -1282,7 +1282,7 @@ body {
 .text {
   position: absolute;
   width: 450px;
-  left: 50%;
+  left: 0%;
   margin-left: -225px;
   height: 40px;
   top: 50%;
@@ -1291,8 +1291,7 @@ body {
 
 
 .word {
-  padding: 60px 0 20px 0;
-  position: absolute;
+  position: center;
   width: 220px;
   opacity: 0;
 }
