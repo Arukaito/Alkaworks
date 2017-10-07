@@ -1291,7 +1291,8 @@ body {
 
 
 .word {
-  position: content-container;
+  padding: 60px 0 20px 0;
+  position: absolute;
   width: 220px;
   opacity: 0;
 }
