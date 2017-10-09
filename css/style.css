@@ -1293,7 +1293,7 @@ body {
 
 .word {
 
-
+position: absolute;
   /* padding-left: 435px; */
   opacity: 0;
 }
